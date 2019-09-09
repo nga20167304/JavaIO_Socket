@@ -1,0 +1,4 @@
+AUTHEN PhoneNumber 0987654321 Key topica
+INSERT PhoneNumber 0987654321 Name username
+COMMIT PhoneNumber 0987654321
+SELECT PhoneNumber 0987654321
